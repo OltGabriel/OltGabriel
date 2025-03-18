@@ -1,5 +1,5 @@
 <h1 align="center">Bună, sunt Gabriel</h1>
-<h3 align="center">doresc să fac programare</h3>
+<h3 align="center">Hai să programăm</h3>
 
 - 📫 Contact: **gabigabriel2104@gmail.com**
 
